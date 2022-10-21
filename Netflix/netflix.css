@@ -1,0 +1,75 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.background{
+    height: 721px;
+    width: 100%;
+    float: left;
+    background-image: url(iron.jpg);
+   background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.menu{
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+.logo{
+    height:100px;
+    width: 300px;
+    float: left;
+}
+.logo h1{
+    color: red;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 22px;
+}
+.button{
+    height: 100%;
+    width: 1235px;
+    float: left;
+}
+.lang{
+    height: 50px;
+    width: 120px;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute; right: 205px;
+    margin-top: 25px;
+    border: none;
+    font-size: 15px;
+    box-shadow: 0px 0px 2px 2px white;
+}
+.button button{
+    height: 50px;
+    width: 120px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute; right: 80px;
+    margin-top: 25px;
+    border: none;
+    font-size: 20px;
+}
+.main{
+    text-align: center;
+    color: white;
+    margin-top: 280px;
+}
+.main h1{
+    font-size: 50px;
+    color: white;
+}
+.main input{
+    height: 40px;
+    width: 450px;
+}
+.main label{
+    height: 40px;
+    width: 100px;
+    background-color:red;
+    padding: 13px;
+}

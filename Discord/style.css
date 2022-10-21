@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+}
+.background{
+    width: 100%;
+    height: 740px;
+    float: left;
+    background-image: url('dis3.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.navbar{
+    width: 100%;
+    height: 80px;
+    float: left;
+    background-color: #7289d9;
+}
+.navbar .logo{
+    width: 30%;
+    height: 100%;
+    float: left;
+   
+    
+}
+.navbar .logo img{
+    margin-left: 57px;
+}
+.navbar .options{
+    width: 50%;
+    height: 100%;
+    float: left;
+    
+    
+}
+.navbar .options ul li{
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 20px;
+    font-size: 24px;
+    margin-top: 23px;
+    font-weight: bold;
+    color: white;
+
+}
+.navbar .loginbut{
+    width: 20%;
+    height: 100%;
+    float: left;
+    
+    
+}
+.navbar .loginbut button{
+    width: 112px;
+    height: 54px;
+    float: left;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: 12.3px;
+    margin-left: 10px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+}
+.background .info{
+    width: 45%;
+    height: 290px;
+
+    float: left;
+    position: absolute;
+    top: 421px;
+    left: 450px;
+}
+.background .info h2{
+    margin-left: 25px;
+    /* float: left; */
+    font-size: 28px;
+
+}
+.background .info p{
+    font-size: 18px;
+    margin-top: 8px;
+}
+.background .info button{
+    width: 260px;
+    height: 40px;
+    float: left;
+    border-radius: 50px;
+    margin-left: 35px;
+    margin-top: 25px;
+    color: white;
+    background-color: orangered;
+    border: none;
+
+}

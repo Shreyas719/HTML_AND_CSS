@@ -1,0 +1,199 @@
+*{
+    margin: 0px;
+}
+.nav{
+   
+    width: 100%;
+    height: 80px;
+}
+.nav .logo{
+    width: 15%;
+    height: 100%;
+    
+    float: left;
+    margin-left: 150px;
+}
+.nav img{
+    width: 250px;
+    height: 80px;
+}
+.nav .option{
+    width: 30%;
+    height: 80px;
+   
+    float: left;
+    
+}
+.option ul li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 22px;
+    margin-left: 19px;
+    margin-top: 19px;
+}
+.nav ul li{
+    opacity: 0.6;
+}
+.nav .space{
+    width: 20%;
+    height: 80px;
+    background-color: white;
+    float: left;   
+}
+.nav .opt{
+    width: 25%;
+    height: 80px;
+    
+    float: left; 
+}
+.nav button{
+    width: 80px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 50px;
+    margin-left: 10px;
+    text-align: center;
+    border: none;
+}
+.nav select{
+    width: 160px;
+    height: 40px;
+    margin-top: 20px;
+    border: none;
+    margin-left: 10px;
+    text-align: center;
+    
+}
+.nav button:hover{
+    background-color: orangered;
+}
+
+.box2{
+    width: 100%;
+    height: 100px;
+    
+}
+.box2 h1{
+    text-align: center;
+}
+.box2 h5{
+    text-align: center;
+    opacity: 0.6;
+}
+.search{
+    width: 100%;
+    height:50px;
+    /* background-color: blueviolet; */
+}
+.search input{
+    width: 60%;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 290px;
+    margin-top: 7px;
+    border: none;
+}
+.search .inersearch{
+    width: 86px;
+    height: 33px;
+    border-radius: 50px;
+    position: absolute;
+    top: 192px;
+    left: 1125px;
+    background-color: rgb(70, 177, 219);
+    border: none;
+    color: white;
+}
+.searchicon{
+    position: absolute;
+    top: 198px;
+    left: 307px;
+    font-size: 22px;
+    opacity: 0.6;
+}
+.manyopt{
+    width: 85%;
+    height: 70px;
+    float: left;
+    
+    margin-left: 100px;
+}
+.manyopt select{
+    width: 150px;
+    height: 50px;
+   
+    margin-left: 50px;
+    margin-top: 15px;
+    background-color: white;
+    
+    border: 1px sold black;
+    border-radius: 7px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 0.5px solid;
+}
+
+.manyopt1{
+    width: 70%;
+    height: 80px;
+    float: left;
+   
+    margin-left: 170px;   
+}
+.manyopt1 select{
+    width: 150px;
+    height: 50px;
+    /* border: none; */
+    margin-left: 50px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 7px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 0.5px solid;
+}
+
+.t1{
+    width: 100%;
+    height: 55px;
+    /* background-color: aqua; */
+    float: left;
+    text-align: center;
+}
+.company1{
+    width: 100%;
+    height: 300px;
+    float: left;
+    
+}
+
+.company1 .a{
+    width: 18%;
+    height: 220px;
+    float: left;
+    background-color: whitesmoke;
+    margin-left: 59.5px;
+    margin-top: 15px;
+    border-radius: 7px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 0.1px solid;
+    padding: 15px;
+}
+.a select{
+    width: 80px;
+    height: 40px;
+}
+.a h3{
+    margin-top: 11.4px;
+    opacity: 0.7;
+}
+.a img{
+    width: 160px;
+    height: 120px;
+    float: left;
+    margin-top: 15px;
+}
+.a select{
+    border: none;
+}

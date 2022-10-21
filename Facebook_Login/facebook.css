@@ -1,0 +1,83 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.area1
+{
+	height: 650px;
+	width: 50%;
+	/*background-color: darkred;*/
+	float: left;
+}
+.area2
+{
+	height: 650px;
+	width: 50%;
+	/*background-color: blue;*/
+	float: left;
+}
+.area1 h1
+{
+	color: blue;
+	margin-top: 200px;
+	margin-left: 250px;
+	font-size: 50px;
+	font-family: 'Rubik', sans-serif;
+}
+.area1 h3
+{
+	margin-left: 250px;
+	font-size: 20px;
+}
+.a2
+{
+	height: 450px;
+	width: 60%;
+	background-color: white;
+	margin-left: 0px;
+	margin-top: 100px;
+	box-shadow: 0px 0px 20px 0px gray;
+	border-radius: 20px;
+}
+.a2 input
+{
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	border-radius: 10px;
+
+}
+.btn1
+{
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	border-radius: 10px;
+	font-size: 20px;
+	color: white;
+	background-color: blue;
+}
+.a2 a
+{
+	text-decoration: none;
+	text-align: center;
+	margin-left: 150px;
+	
+}
+.btn2
+{
+	height: 50px;
+	width: 55%;
+	text-align: center;
+	border-radius: 10px;
+	font-size: 16px;
+	color: white;
+	background-color: green;
+	margin-left: 90px;
+}
+.padd
+{
+	padding: 20px;
+}
