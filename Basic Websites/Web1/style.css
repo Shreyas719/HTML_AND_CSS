@@ -1,0 +1,176 @@
+.menu_bar{
+    width: 100%;
+    height: 100px;
+    float: left;
+    /* background-color:green; */
+
+}
+.logo{
+    width: 7%;
+    height: 100%;
+    
+    float: left;
+}
+.l1{
+    font-size: 50px;
+    color: orangered;
+    font-weight: bold;
+   
+}
+.l2{
+    font-size: 50px;
+    color: black;
+    float: left;
+    font-weight:bold;
+}
+.logo1{
+    width: 18%;
+    height: 100%;
+    
+    float: left;
+}
+.gap{
+    width: 20.5%;
+    height: 100%;
+    float: left;
+    
+}
+.options{
+    width: 40%;
+    height: 100%;
+    float: left;
+    
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 14px;
+    padding-left: 5px;
+}
+li{
+    margin-top: 20px;
+    color: blue;
+}
+.Ad{
+    width: 14.5%;
+    height: 100%;
+    float: left;
+    
+}
+.Ad span{
+    float: left;
+    color: white;
+    
+}
+.move{
+    margin-top: 20px;
+    background-color: blue;
+    width: 90%;
+    height: 40px;
+    float: left;
+    font-size: 25px;
+}
+.img{
+    width: 100%;
+    height: 650px;
+    float: left;
+    background-image: url('image1.jpg');
+    background-size: 100% 100%;
+}
+.box{
+    width: 60%;
+    height: 300px;
+    background-color: white;
+    float: left;
+    position: absolute;
+    top: 260px;
+    left: 290px;
+}
+.part1{
+    width: 100%;
+    height: 150px;
+    float: left;
+    background-color: white;
+
+}
+.p1{
+width: 20%;
+height: 100px;
+float: left;
+background-color: white;
+text-align: center;
+font-size: 22px;margin-top: 50px;
+
+}
+
+.part2{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    float: left;
+
+}
+.p21{
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-color: orangered;
+    position: absolute;
+    border-radius: 50%;
+    left: 55px;
+    z-index: 3;
+
+}
+.p22{
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-color: orangered;
+    position: absolute;
+    border-radius: 50%;
+    left: 242px;
+    z-index: 3;
+}
+.p23{
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-color: orangered;
+    position: absolute;
+    border-radius: 50%;
+    left: 420px;
+    z-index: 3;
+}
+
+
+.p24{
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-color: orangered;
+    position: absolute;
+    border-radius: 50%;
+    left: 590px;
+    z-index: 3;
+}
+.p25{
+    width: 50px;
+    height: 50px;
+    float: left;
+    background-color: orangered;
+    position: absolute;
+    border-radius: 50%;
+    left: 770px;
+    z-index: 3;
+}
+.dash{
+    width: 83%;
+    height: 8px;
+    float: left;
+    position: absolute;
+    background-color: blue;
+    top:170px;
+    left: 60px;
+    z-index: 1;
+}
